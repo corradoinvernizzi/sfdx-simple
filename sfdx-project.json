@@ -1,9 +1,20 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app"
+    "packageDirectories": [
+        {
+            "path": "force-app"
+        },
+        {
+            "path": "PoC-main",
+            "package": "PoC App",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "39.0",
+    "packageAliases": {
+        "PoC App": "0Ho1p000000GmcFCAS",
+        "PoC App@0.1.0-1": "04t1p000000kddmAAA"
     }
-  ],
-  "namespace": "",
-  "sourceApiVersion": "39.0"
 }

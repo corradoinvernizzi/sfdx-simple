@@ -1,12 +1,11 @@
 {
   "country": "US",
   "edition": "Developer",
-  "orgPreferences": {
-    "enabled": [
-      "S1DesktopEnabled"
-    ],
-    "disabled": []
+  "settings": {
+    "orgPreferenceSettings": {
+        "s1DesktopEnabled": true
+    }
   },
-  "orgName": "Your Company",
+  "orgName": "Cippo test",
   "adminEmail": "yourname@example.com"
 }
